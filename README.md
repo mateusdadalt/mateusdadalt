@@ -1,4 +1,4 @@
-# Hello, I am Mateus
+# Hello, I am Mateus Dadalt
 I am a former Mechanical Engineer whose career was transformed by Power BI. I have over 6 years of experience developing Power BI solutions, working with Power Platform apps to enhance user experience in analysis, and data generation and storage.  
 
 # About me
@@ -12,5 +12,27 @@ I am a former Mechanical Engineer whose career was transformed by Power BI. I ha
 ![PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power%20BI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![PL-900](https://img.shields.io/badge/Microsoft_PL--900_Power%20Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
 
+# Projects
+<table>
+  <tr>
+    <td  align="center">
+      <a href="https://github.com/mateusdadalt/rdstation-lead-capture-webhook-powerbireport">
+        <img src="https://github.com/mateusdadalt/mateusdadalt/blob/main/README/images/Webhook 1.png" alt="Webhook" width="600px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mateusdadalt/rdstation-lead-capture-webhook-powerbireport">
+        <span>Lead capture monitoring with Power BI, Webhook, Power Automate, and SharePoint</span>
+      </a>
+      <br/>
+      <span> Power BI report connected to RD Station using Webhook integration via Power Automate and SharePoint, enabling lead capture, centralized storage, and campaign performance monitoring.</span>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Contact
 [LinkedIn](https://linkedin.com/in/mateusdadalt)  
+
