@@ -13,6 +13,7 @@ I am a former Mechanical Engineer whose career was transformed by Power BI. I ha
 ![PL-900](https://img.shields.io/badge/Microsoft_PL--900_Power%20Platform-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
 
 # Projects
+Projects are being documented and will be updated soon.
 <table>
   <tr>
     <td  align="center">
